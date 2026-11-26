@@ -7,11 +7,7 @@ Web project manager
 
 Passionate about web development since I was 11, I started with HTML and CSS and quickly moved on to JavaScript. While I specialize in front-end development, I also enjoy diving into back-end work. In addition to web development, I have hands-on experience in mobile app development with React Native, allowing me to build full-stack solutions across platforms.
 
-* 🌍  I'm based in Alençon
-* ✉️  You can contact me at [contact@dylan-arroyo.com](mailto:contact@dylan-arroyo.com)
-* 🚀  I'm currently working on [Scène nationale 61](http://scenenationale61.com)
-* 🧠  I'm learning Go
-
+* 🌍  I'm based in Montpellier,FR
 <a href="https://www.twitch.tv/drouky" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/drouky?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
